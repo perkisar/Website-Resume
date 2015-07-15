@@ -1,0 +1,44 @@
+﻿
+/*--- Skill Table Cell Config ---*/
+.skill-set1 {
+}
+
+.skill-set2 {
+}
+
+/*--- Skill Images ---*/
+.skill-set1 img, 
+.skill-set2 img {
+    max-width:100px;
+    padding:20px 0 0 0;
+}
+
+/*--- Skill Ratings 1 - 5 ---*/ 
+.star1, 
+.star2, 
+.star3, 
+.star4, 
+.star5 {
+    width:100px;
+}
+
+.star1 img,
+.star2 img,
+.star3 img,
+.star4 img,
+.star5 img {
+    max-width:70px;
+    padding: 0 10px 0 10px;
+}
+
+.star2 {
+}
+
+.star3 {
+}
+
+.star4 {
+}
+
+.star5 {
+}

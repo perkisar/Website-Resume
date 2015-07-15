@@ -1,0 +1,193 @@
+/*!
+ * Start Bootstrap - Scrolling Nav HTML Template (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+html {width:100%; height:100%;}
+
+
+.intro-section section,
+.contact-section section
+ {
+    width:100%; height:100%; min-height:1000px;
+
+ }
+
+.curly-font {font-family: 'Ruthie', cursive;
+             font-size:80px;
+}
+
+body {
+    width: 100%;
+    height: 100%;
+    font-family: 'Raleway', sans-serif;
+}
+
+body a:focus {
+    outline:none;
+}
+
+.btn:focus {
+    outline:none;
+    outline-color:none;
+    outline-offset:0;
+    outline-width:0;
+}
+
+#container {
+    padding-right:15px;
+    padding-left:15px;
+}
+
+.menu-color {
+    color:#9d9d9d;
+}
+
+#brand {
+    font-size:30px;
+    font-family: 'Ruthie', cursive;
+    padding-top:20px;
+}
+
+#pesky-button {
+    width:100px;
+    padding-top:15px;
+}
+
+.pesky-list {
+    width:55%;
+}
+
+.introPadding {
+    padding-top:20px;    
+     width:250px;
+}
+
+html {
+    width: 100%;
+    height: 100%;
+}
+
+.txt-center {
+    text-align:center;
+}
+
+.font-bigger {
+    font-size:14px;
+}
+
+.centering {
+     float:none;
+     margin: 0 auto;
+}
+
+@media(min-width:767px) {
+    .navbar {
+        padding: 20px 0;
+        -webkit-transition: background .5s ease-in-out,padding .5s ease-in-out;
+        -moz-transition: background .5s ease-in-out,padding .5s ease-in-out;
+        transition: background .5s ease-in-out,padding .5s ease-in-out;
+    }
+
+    .top-nav-collapse {
+        padding: 0;
+    }    
+    
+    #brand {
+        font-size:50px;
+        font-family: 'Ruthie', cursive;
+        padding-top:20px;
+    }
+
+    #navItems {
+        float: right;
+    }
+
+    
+    .font-bigger {
+        font-size:18px;
+}
+
+}
+
+
+.intro-section {
+    height: 100%;
+    padding-top: 150px;
+    background:url('/img/0aee788e00acc55b621754a30e768d66.jpg');
+    background-attachment:fixed;
+    color:#fff;
+    box-shadow: inset 0 0 0 1000px rgba(0,0,0,.5);
+}
+
+.intro-section h1 {
+    text-align:center;
+    padding-top:100px;
+    font-family: 'Ruthie', cursive;
+    font-size:70px;
+}
+.intro-section h2 {
+    text-align:center;
+    color:#808080;
+    font-size:20px;
+} 
+
+.about-section {
+    height: 120%;
+    padding-top: 50px;
+    text-align: center;
+    background: #808080;
+    box-shadow: inset 0 0 0 1000px rgba(0,0,0,.5);
+    color:#fff;
+}
+
+@media(max-width:575px)
+{
+    /* Make article smaller or fit content into sections at this width. */
+}
+
+figure img {
+    width:500px;
+
+}
+
+
+.services-section {
+    height: 80%;
+    padding-top: 150px;
+    text-align: center;
+    background: #fff;
+    background-image:url('http://www.weaselinthebarley.com/space_wallpapers/1920/284895main_witchhead_nebula_full.jpg');
+    background-attachment:fixed;
+    
+    box-shadow: inset 0 0 0 1000px rgba(0,0,0,.5);
+    color:#ffffff;
+}
+
+.services-section h1 {
+    font-family: 'Ruthie', cursive;
+}
+
+.contact-section {
+    height: 150%;
+    padding-top: 150px;
+    text-align: center;
+    background:#808080;
+        box-shadow: inset 0 0 0 1000px rgba(0,0,0,.5);
+    color:#fff;
+}
+
+
+.input-large {
+
+    height:300px;
+
+}
+
+.fixed-width {
+
+    width:750px;
+    padding-top:50px;
+
+}
